@@ -119,7 +119,6 @@ function menu_draw()
     love.graphics.draw(logo.sms, 215, 340)
     
     love.graphics.draw(logo.ko_fi, 122, 340)
-    love.graphics.draw(logo.notif, 172, 330) 
 end
 
 function mouse_test()
@@ -173,7 +172,7 @@ function love.keypressed(key)
     end
     
     if screen == "dossier" then
-        if key == "a" then
+        if key == "up" then
             dossier.ball.move = true 
         end
     end
