@@ -6,4 +6,4 @@ I don't have the time to made a perfect game but I'm going to upgrade them with 
 
 If you want to play the game, you can visit it [Itch Page](https://bigaston.itch.io/notified) !
 
-If you like my work you can [buy me a Coffee!](https://ko-fi.com/bigaston)
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/A0A05WS6)
